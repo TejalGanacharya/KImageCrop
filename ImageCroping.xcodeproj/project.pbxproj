@@ -12,7 +12,6 @@
 		1B83BC5D1E5730B4001A2C64 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B83BC5C1E5730B4001A2C64 /* ViewController.m */; };
 		1B83BC601E5730B4001A2C64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B83BC5E1E5730B4001A2C64 /* Main.storyboard */; };
 		1B83BC631E5730B4001A2C64 /* ImageCroping.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1B83BC611E5730B4001A2C64 /* ImageCroping.xcdatamodeld */; };
-		1B83BC651E5730B4001A2C64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B83BC641E5730B4001A2C64 /* Assets.xcassets */; };
 		1B83BC681E5730B4001A2C64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B83BC661E5730B4001A2C64 /* LaunchScreen.storyboard */; };
 		1B83BC731E5730B4001A2C64 /* ImageCropingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B83BC721E5730B4001A2C64 /* ImageCropingTests.m */; };
 		1B83BC871E57394D001A2C64 /* KICropImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B83BC841E57394D001A2C64 /* KICropImageView.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -38,7 +37,6 @@
 		1B83BC5C1E5730B4001A2C64 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		1B83BC5F1E5730B4001A2C64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1B83BC621E5730B4001A2C64 /* ImageCroping.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ImageCroping.xcdatamodel; sourceTree = "<group>"; };
-		1B83BC641E5730B4001A2C64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B83BC671E5730B4001A2C64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B83BC691E5730B4001A2C64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1B83BC6E1E5730B4001A2C64 /* ImageCropingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageCropingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +96,6 @@
 				1B83BC5B1E5730B4001A2C64 /* ViewController.h */,
 				1B83BC5C1E5730B4001A2C64 /* ViewController.m */,
 				1B83BC5E1E5730B4001A2C64 /* Main.storyboard */,
-				1B83BC641E5730B4001A2C64 /* Assets.xcassets */,
 				1B83BC661E5730B4001A2C64 /* LaunchScreen.storyboard */,
 				1B83BC691E5730B4001A2C64 /* Info.plist */,
 				1B83BC611E5730B4001A2C64 /* ImageCroping.xcdatamodeld */,
@@ -209,7 +206,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B83BC681E5730B4001A2C64 /* LaunchScreen.storyboard in Resources */,
-				1B83BC651E5730B4001A2C64 /* Assets.xcassets in Resources */,
 				1B83BC601E5730B4001A2C64 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -434,6 +430,7 @@
 				1B83BC791E5730B4001A2C64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1B83BC7A1E5730B4001A2C64 /* Build configuration list for PBXNativeTarget "ImageCropingTests" */ = {
 			isa = XCConfigurationList;
@@ -442,6 +439,7 @@
 				1B83BC7C1E5730B4001A2C64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
