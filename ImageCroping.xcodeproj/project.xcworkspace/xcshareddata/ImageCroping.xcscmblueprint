@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5EF91AA4-AD59-43B7-9A29-A84228B0D156",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11" : "Honeywell\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ImageCroping",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PrivatePods\/ImageCroping\/ImageCroping\/ImageCroping.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.9.64.56\/svn\/D-00380-01-01",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11"
+    }
+  ]
+}
