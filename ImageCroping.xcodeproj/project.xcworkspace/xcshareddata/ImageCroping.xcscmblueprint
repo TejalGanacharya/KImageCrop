@@ -1,25 +1,39 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++6985",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11" : {
+    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++6985" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11" : 9223372036854775807
+    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++6985" : 9223372036854775807,
+    "0245B73D2521388F48056FC51522F60BDD685C3E" : 9223372036854775807,
+    "789154603C052914FD6B2624014AAB20C3B72BCF" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5EF91AA4-AD59-43B7-9A29-A84228B0D156",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11" : "Honeywell\/"
+    "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++6985" : "",
+    "0245B73D2521388F48056FC51522F60BDD685C3E" : "ImageCroping\/",
+    "789154603C052914FD6B2624014AAB20C3B72BCF" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "ImageCroping",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PrivatePods\/ImageCroping\/ImageCroping\/ImageCroping.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ImageCroping.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TejalGanacharya\/ImageCropper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0245B73D2521388F48056FC51522F60BDD685C3E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TejalGanacharya\/ImageCropper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "789154603C052914FD6B2624014AAB20C3B72BCF"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.9.64.56\/svn\/D-00380-01-01",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++11"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fe8ad72e-5401-0010-8640-59e9c7ff2ba1++6985"
     }
   ]
 }
